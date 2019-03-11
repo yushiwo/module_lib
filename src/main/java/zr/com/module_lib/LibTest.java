@@ -9,7 +9,7 @@ package zr.com.module_lib;
 public class LibTest {
 
     public static String getLibStr() {
-        return "123";
+        return "123__321";
     }
 
 }
